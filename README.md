@@ -6,7 +6,7 @@
 |Name|Tags|
 |--|--|
 |[Basic Routing]()|Angular Routing|
-|[Categories](#code-examples)||
+|[Top](#code-examples)||
 ## Javascript
 |Name|Tags|
 |--|--|
