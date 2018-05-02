@@ -1,6 +1,6 @@
 # Code Examples
 * [Angular](#angular)
-* [Javascript](#aavascript)
+* [Javascript](#javascript)
 * [Misc](#misc)
 ## Angular
 |Name|Tags|
