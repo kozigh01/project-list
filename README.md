@@ -1,21 +1,21 @@
 # Code Examples
-* [Angular](#Angular)
-* [Javascript](#Javascript)
-* [Misc](#Misc)
+* [Angular](#angular)
+* [Javascript](#aavascript)
+* [Misc](#misc)
 ## Angular
 |Name|Tags|
 |--|--|
 |[Basic Routing]()|Angular Routing|
-|[Categories](#Code-Examples)||
+|[Categories](#code-examples)||
 ## Javascript
 |Name|Tags|
 |--|--|
 |[ES6 Iterators and Generators](https://github.com/kozigh01/es6-iterators-generators)|Angular Routing|
-[Top](#Code-Examples)
+[Top](#code-examples)
 ## RxJS
-[Top](#Code-Examples)
+[Top](#code-examples)
 ## Okta
-[Top](#Code-Examples)
+[Top](#code-examples)
 ## Misc
 |Technology|Name|Tags|
 |--|--|--|
