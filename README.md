@@ -2,6 +2,7 @@
 * [Angular](#angular)
 * [Javascript](#javascript)
 * [Misc](#misc)
+* [Tools](#tools)
 ## Angular
 |Name|Tags|
 |--|--|
@@ -24,4 +25,9 @@
 |Git|[Helpful Git Commands](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)||
 |VSCode|[New Features](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)||
 [Top](#code-examples)
+## Tools
+[Stackblitz](https://stackblitz.com/) - uses Github login  
+[CodeSandbox](https://codesandbox.io/) - uses Github login  
+[KataCode Node Playground](https://www.katacoda.com/courses/nodejs/playground) - uses Github login  
+[repl.it](https://repl.it/repls) - uses Github login  
 
