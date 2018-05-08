@@ -6,6 +6,7 @@
 ## Angular
 [Basic Routing]()  - Angular basic routing  
 [Learning the Angular CLI](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703) - based on LinkedInLearning course  
+Angular: API Communication and Authentication (LinkedInLearning: [Course](https://www.linkedin.com/learning/angular-api-communication-and-authentication) | [Github](https://github.com/kozigh01/AngularAPICommAndAuth)  
 [Angular 6 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - based on Udemy course
 
 [Back to Top](#code-examples)  
