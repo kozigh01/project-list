@@ -19,9 +19,9 @@ ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators
 ## Okta
 [Top](#code-examples)
 ## Misc
-[Learning Markdown](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e) - based on LinkedInLearning course  
-[Helpful Git Commands](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
-[VS Code New Features](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
+Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [GithubGist](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
+Helpful Git Commands: [GithubGist](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
+VS Code New Features: [GithubGist](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
 [Back to Top](#code-examples)
 ## Tools
