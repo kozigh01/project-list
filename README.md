@@ -13,7 +13,7 @@
 * [Resource Lists](#resource-lists)
 * [Tools](#tools)
 
-## Javascript [:arrow_double_up:](#code-examples)
+## Javascript   [:arrow_double_up:](#code-examples)
 ### Client Frameworks
 #### Angular
 Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) | [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
@@ -51,7 +51,7 @@ VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936b
 * [RxJS](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
 [Top](#code-examples)
-## Tools
+## Tools   [:arrow_double_up:](#code-examples)
 [Stackblitz](https://stackblitz.com/) - uses Github login  
 [CodeSandbox](https://codesandbox.io/) - uses Github login  
 [KataCode Node Playground](https://www.katacoda.com/courses/nodejs/playground) - uses Github login  
