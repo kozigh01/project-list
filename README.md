@@ -18,6 +18,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 [Back to Top](#code-examples)  
 ## Javascript
 ### Client Frameworks
+[NgRX]()
 #### Angular
 Angular Basic Routing: [Github](https://github.com/kozigh01/angular-basic-routing)  
 Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) | [Gist](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
