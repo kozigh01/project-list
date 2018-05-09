@@ -5,7 +5,8 @@
   * [Libraries](#libraries)
     * [GraphQL](#graphql)
     * [RxJS](#rxjs)
-  * [ES6](#es6)
+  * [Javascript Versions](#javascript-versions)
+    * [ES6](#es6)
 * [Javascript](#javascript)
 * [Misc](#misc)
 * [Tools](#tools)
@@ -25,7 +26,8 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 #### GraphQL
 
 [Back to Top](#code-examples)
-### ES6
+### Javascript Versions
+#### ES6
 ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
 
 [Back to Top](#code-examples)
