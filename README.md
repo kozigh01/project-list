@@ -1,4 +1,4 @@
-# Code Examples
+# Development Resources
 * [Javascript](#javascript)
   * [Client Frameworks](#client-frameworks)
     * [Angular](#angular)
@@ -44,7 +44,7 @@ VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936b
 * [Angular](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
 * [RxJS](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
-## Tools
+## Development Resoureces Tools
 [Stackblitz](https://stackblitz.com/) - uses Github login  
 [CodeSandbox](https://codesandbox.io/) - uses Github login  
 [KataCode Node Playground](https://www.katacoda.com/courses/nodejs/playground) - uses Github login  
