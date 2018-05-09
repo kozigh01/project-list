@@ -45,7 +45,11 @@ Helpful Git Commands: [Gist](https://gist.github.com/kozigh01/38da36a44765bba001
 VS Code New Features: [Gist](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
 [Back to Top](#code-examples)
+## Resource Lists
+* Angular: [Gist](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
+* RxJS: [Gist](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
+[Top](#code-examples)
 ## Tools
 [Stackblitz](https://stackblitz.com/) - uses Github login  
 [CodeSandbox](https://codesandbox.io/) - uses Github login  
