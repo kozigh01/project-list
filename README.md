@@ -6,7 +6,6 @@
     * [GraphQL](#graphql)
     * [RxJS](#rxjs)
   * [ES6](#es6)
-* [Angular](#angular)
 * [Javascript](#javascript)
 * [Misc](#misc)
 * [Tools](#tools)
