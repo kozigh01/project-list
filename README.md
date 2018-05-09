@@ -11,7 +11,7 @@
   * [Okta](#okta)
 * [Misc](#misc)
 * [Resource Lists](#resource-lists)
-* [Tools](##tools---arrow_double_up)
+* [Tools](#tools---arrow_double_up)
 
 ## Javascript   [:arrow_double_up:](#code-examples)
 ### Client Frameworks
