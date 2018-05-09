@@ -23,7 +23,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 [Back to Top](#code-examples)
 
 ### Libraries
-[NgRX]()
+#### NgRX
 #### RxJS
 #### GraphQL
 
