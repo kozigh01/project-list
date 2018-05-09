@@ -19,10 +19,6 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 [Back to Top](#code-examples)  
 ## Javascript
 ### Client Frameworks
-[NgRX]()
-#### RxJS
-
-[Top](#code-examples)
 #### Angular
 Angular Basic Routing: [Github](https://github.com/kozigh01/angular-basic-routing)  
 Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) | [Gist](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
@@ -31,7 +27,11 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 
 [Back to Top](#code-examples)
 ### Libraries
+[NgRX]()
+#### RxJS
 #### GraphQL
+
+[Back to Top](#code-examples)
 ### ES6
 ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
 
