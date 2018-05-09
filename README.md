@@ -47,8 +47,8 @@ VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936b
 
 [Back to Top](#code-examples)
 ## Resource Lists
-* Angular: [List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
-* RxJS: [List](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
+* [Angular](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
+* [RxJS](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
 [Top](#code-examples)
 ## Tools
