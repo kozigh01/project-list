@@ -4,6 +4,7 @@
     * [Angular](#angular-1)
   * [Libraries](#libraries)
     * [GraphQL](#graphql)
+    * [RxJS](#rxjs)
   * [ES6](#es6)
 * [Angular](#angular)
 * [Javascript](#javascript)
