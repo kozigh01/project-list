@@ -7,7 +7,8 @@
     * [RxJS](#rxjs)
   * [Javascript Versions](#javascript-versions)
     * [ES6](#es6)
-* [Javascript](#javascript)
+* [Secure Practices](#secure-practices)
+  * [Okta](#okta)
 * [Misc](#misc)
 * [Tools](#tools)
 
@@ -20,26 +21,31 @@ Angular: API Communication and Authentication (LinkedInLearning): [Course](https
 Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) | [Github](https://github.com/kozigh01/AngularAPICommAndAuth)  
 
 [Back to Top](#code-examples)
+
 ### Libraries
 [NgRX]()
 #### RxJS
 #### GraphQL
 
 [Back to Top](#code-examples)
+
 ### Javascript Versions
 #### ES6
 ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
 
 [Back to Top](#code-examples)
 
-## Okta
+## Secure Practices
+### Okta
 [Top](#code-examples)
+
 ## Misc
 Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Gist](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
 Helpful Git Commands: [Gist](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
 VS Code New Features: [Gist](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
 [Back to Top](#code-examples)
+
 ## Tools
 [Stackblitz](https://stackblitz.com/) - uses Github login  
 [CodeSandbox](https://codesandbox.io/) - uses Github login  
