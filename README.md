@@ -1,7 +1,8 @@
 # Code Examples
 * Javascript
   * [Client Frameworks](#client-frameworks)
-      * [Angular](#angular-1)
+    * [Angular](#angular-1)
+  * [ES6](#es6)
 * [Angular](#angular)
 * [Javascript](#javascript)
 * [Misc](#misc)
