@@ -32,7 +32,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 
 ### Javascript Versions
 #### ES6
-ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
+ES6 Iterators and Generators: [Code](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
 
 [Back to Top](#code-examples)
 
@@ -41,14 +41,14 @@ ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators
 [Top](#code-examples)
 
 ## Misc
-Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Gist](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
-Helpful Git Commands: [Gist](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
-VS Code New Features: [Gist](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
+Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Notes](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
+Helpful Git Commands: [Notes](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
+VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
 [Back to Top](#code-examples)
 ## Resource Lists
-* Angular: [Gist](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
-* RxJS: [Gist](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
+* Angular: [List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
+* RxJS: [List](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
 [Top](#code-examples)
 ## Tools
