@@ -10,6 +10,7 @@
 * [Secure Practices](#secure-practices)
   * [Okta](#okta)
 * [Misc](#misc)
+* [Resource Lists](#resource-lists)
 * [Tools](#tools)
 
 ## Javascript
