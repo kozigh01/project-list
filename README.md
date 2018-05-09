@@ -2,6 +2,8 @@
 * Javascript
   * [Client Frameworks](#client-frameworks)
     * [Angular](#angular-1)
+  * [Libraries](#libraries)
+    * [GraphQL](#graphql)
   * [ES6](#es6)
 * [Angular](#angular)
 * [Javascript](#javascript)
@@ -23,6 +25,8 @@ Angular: API Communication and Authentication (LinkedInLearning): [Course](https
 Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) | [Github](https://github.com/kozigh01/AngularAPICommAndAuth)  
 
 [Back to Top](#code-examples)
+### Libraries
+#### GraphQL
 ### ES6
 ES6 Iterators and Generators: [Github](https://github.com/kozigh01/es6-iterators-generators) | [Blog](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)  
 
