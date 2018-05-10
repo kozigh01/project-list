@@ -30,7 +30,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 #### GraphQL
 #### NgRX
 #### RxJS
-[RxJS Resource List](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)  
+[RxJS Resource List](https://gist.github.com/kozigh01/0c0823ac699ae6aea662ce7c5aefd651#file-rxjs-resource-list-md)  
 
 ### Javascript Versions
 #### ES6
@@ -49,9 +49,6 @@ Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning
 Helpful Git Commands: [Notes](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
 VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
-## Resource Lists
-* [Angular Resource List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
-* 
 ## Development Resoureces Tools
 [Stackblitz](https://stackblitz.com/) - uses Github login  
 [CodeSandbox](https://codesandbox.io/) - uses Github login  
