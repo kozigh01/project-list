@@ -12,7 +12,9 @@
   * [Okta](#okta)
 * [Misc](#misc)
 * [Resource Lists](#resource-lists)
+* [Training List](https://gist.github.com/kozigh01/72f65d8a350374e11c739cf0cfe59dc8)
 * [Tools](#tools---arrow_double_up)
+
 
 ## Javascript
 ### Client Frameworks
