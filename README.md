@@ -17,7 +17,7 @@
 ## Javascript
 ### Client Frameworks
 #### Angular
-* [Angular Resource List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
+[Angular Resource List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
 [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) | [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
 Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) | [Notes](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
@@ -28,7 +28,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 #### GraphQL
 #### NgRX
 #### RxJS
-* [RxJS Resource List](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
+[RxJS Resource List](https://gist.github.com/kozigh01/17927cccf461608278f49029992490ed)
 
 ### Javascript Versions
 #### ES6
@@ -37,9 +37,9 @@ ES6 Iterators and Generators: [Code](https://github.com/kozigh01/es6-iterators-g
 ## Secure Practices
 ### Okta
 ## Misc
-* Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Notes](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
-* Helpful Git Commands: [Notes](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
-* VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
+Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Notes](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
+Helpful Git Commands: [Notes](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
+VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
 
 ## Resource Lists
 * [Angular Resource List](https://gist.github.com/kozigh01/46f323e50e752f0a656d349e15af7e75)
