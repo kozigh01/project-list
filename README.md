@@ -19,7 +19,7 @@
 ## Javascript
 ### Client Frameworks
 #### Angular
-[Angular Resource List](https://gist.github.com/kozigh01/0c0823ac699ae6aea662ce7c5aefd651#file-angular-resource-list-md)  
+[Angular Resource List](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593#file-angular-resource-list-md)  
 [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) | [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
 Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) | [Notes](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
@@ -30,7 +30,7 @@ Angular 6 (formerly Angular 2) - The Complete Guide (Udemy): [Course](https://ww
 #### GraphQL
 #### NgRX
 #### RxJS
-[RxJS Resource List](https://gist.github.com/kozigh01/0c0823ac699ae6aea662ce7c5aefd651#file-rxjs-resource-list-md)  
+[RxJS Resource List](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593#file-rxjs-resource-list-md)  
 
 ### Javascript Versions
 #### ES6
