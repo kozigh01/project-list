@@ -43,6 +43,7 @@ ES6 Iterators and Generators: [Code](https://github.com/kozigh01/es6-iterators-g
 ### Bootstrap
 
 ## Secure Practices
+[OAuth / OpenID Connect Resource List](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593#file-oauth-resource-list-md)  
 ### Okta
 Web Security: OAuth and OpenID: [Course](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect/welcome) | [Notes](https://gist.github.com/kozigh01/49a8c9313203d1aa4955a35fac48f2dd#file-web-security-oauth-and-openid-md)  
 ## Misc
