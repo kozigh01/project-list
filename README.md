@@ -12,7 +12,6 @@
   * [Okta](#okta)
 * [Misc](#misc)
 * [Resource Lists](#resource-lists)
-* [Training List](https://gist.github.com/kozigh01/72f65d8a350374e11c739cf0cfe59dc8)
 * [Tools](#tools---arrow_double_up)
 
 
@@ -51,6 +50,7 @@ ES6 Iterators and Generators: [Code](https://github.com/kozigh01/es6-iterators-g
 ### Okta
 Web Security: OAuth and OpenID: [Course](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect/welcome) | [Notes](https://gist.github.com/kozigh01/49a8c9313203d1aa4955a35fac48f2dd#file-web-security-oauth-and-openid-md)  
 ## Misc
+[Training List](https://gist.github.com/kozigh01/72f65d8a350374e11c739cf0cfe59dc8)
 Learning Markdown (LinkedInLearning): [Course](https://www.linkedin.com/learning/learning-markdown) | [Notes](https://gist.github.com/kozigh01/b93a28c22b1e564c6a2d6f417712c97e)  
 Helpful Git Commands: [Notes](https://gist.github.com/kozigh01/38da36a44765bba001669daa428209ac)  
 VS Code New Features: [Notes](https://gist.github.com/kozigh01/252c2345aa4cb936bd85f08d15cd3fec)  
